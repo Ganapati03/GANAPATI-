@@ -31,10 +31,13 @@
 
 ---
 
-### 🎥 **Intro Video**
+### 🎥 **Project Demo Video**
 <p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/MdXZPaIuTgM?si=SCHm0Mz-lL-lAYJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="blank">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Project Demo" width="500"/>
+  </a>
 </p>
+<p align="center">🔗 Click the image above to watch the demo!</p>
 
 ---
 
